@@ -1,0 +1,55 @@
+
+:root{
+    --hr-line: 3px solid #777272;
+
+}
+
+
+.resimSilder{
+    height: 600px;
+}
+
+body{
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;;
+}
+
+/* hakkmızıda start */
+.hakkimizda{
+    background-color: #e9dcdc;
+}
+.ayrac{
+    border: none;
+    border-top: var(--hr-line);
+    max-width: 250px;
+    margin: 28px auto;
+}
+
+.igri{
+    color: #777272;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 1px solid #e9dcdc;
+    background-color: #e9dcdc;
+}
+
+/* ekip star */
+.beyaz{
+    color: #777272;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+}
+
+.ekipcard>img:hover{
+    opacity: 0.8;
+}
+.galeri{
+    background-color: #e9dcdc;
+}
+.figure:hover{
+    opacity: 0.8;
+}
